@@ -25,4 +25,4 @@ Java versão 11. IDE Netbeans.
 
 Execução
 
-Executar por meio de uma IDE as classes questao01, questao02 e questao03.
+Descompactar e executar por meio de uma IDE as classes questao01, questao02 e questao03 contidas no arquivo compactado Desafio_Capgemini.zip.
